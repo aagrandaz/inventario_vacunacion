@@ -1,4 +1,4 @@
-package com.agranda.inventario_vacunacion;
+package com.agranda.inventariovacunacion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

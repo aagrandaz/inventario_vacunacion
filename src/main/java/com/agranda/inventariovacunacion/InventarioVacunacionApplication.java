@@ -1,4 +1,4 @@
-package com.agranda.inventario_vacunacion;
+package com.agranda.inventariovacunacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
