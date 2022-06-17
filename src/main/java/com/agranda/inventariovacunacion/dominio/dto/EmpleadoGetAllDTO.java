@@ -11,33 +11,24 @@ import java.time.LocalDate;
 @Setter
 public class EmpleadoGetAllDTO {
 
-    @JsonProperty("id")
-    private Long id;
-
-    @JsonProperty("cedula")
-    private String cedula;
-
-    @JsonProperty("nombres")
-    private String nombres;
-
-    @JsonProperty("apellidos")
-    private String apellidos;
-
-    @JsonProperty("correoElectronico")
-    private String correoElectronico;
-
-    @JsonProperty("fechaNacimiento")
-    private LocalDate fechaNacimiento;
-
-    @JsonProperty("domicilio")
-    private String domicilio;
-
-    @JsonProperty("telefonoMovil")
-    private String telefonoMovil;
-
-    @JsonProperty("estadoVacunacion")
-    private EstadoVacunacion estadoVacunacion;
-
     @JsonProperty("vacuna")
     VacunaDTO vacuna;
+    @JsonProperty("id")
+    private Long id;
+    @JsonProperty("cedula")
+    private String cedula;
+    @JsonProperty("nombres")
+    private String nombres;
+    @JsonProperty("apellidos")
+    private String apellidos;
+    @JsonProperty("correoElectronico")
+    private String correoElectronico;
+    @JsonProperty("fechaNacimiento")
+    private LocalDate fechaNacimiento;
+    @JsonProperty("domicilio")
+    private String domicilio;
+    @JsonProperty("telefonoMovil")
+    private String telefonoMovil;
+    @JsonProperty("estadoVacunacion")
+    private EstadoVacunacion estadoVacunacion;
 }

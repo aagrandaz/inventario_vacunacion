@@ -1,4 +1,4 @@
-package  com.agranda.inventariovacunacion.dominio.dto;
+package com.agranda.inventariovacunacion.dominio.dto;
 
 import com.agranda.inventariovacunacion.dominio.enumerator.TipoVacuna;
 import com.fasterxml.jackson.annotation.JsonFormat;
