@@ -22,4 +22,4 @@ Pasos:
 2. Crear una base de datos PostgreSQL con el nombre dbvacunas.
 
 ## Ejecutar aplicacion
-https://github.com/aagrandaz/inventario_vacunacion/blob/master/src/repo/Captura%20de%20Pantalla%202022-06-17%20a%20la(s)%2019.09.09.png
+![](https://github.com/aagrandaz/inventario_vacunacion/blob/master/src/repo/Captura%20de%20Pantalla%202022-06-17%20a%20la(s)%2019.09.09.png).
